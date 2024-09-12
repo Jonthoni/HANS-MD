@@ -18,12 +18,12 @@
 </p>
   <p align="center">
 <a href="https://github.com/HANSTZ3/HANS-MD><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
+<a href="https://github.com/HANSTZ3/HANSTZ-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/HANSTZ3/HANS-MD?&style=social"></a>
 <a href="https://github.com/HANSTZ3/HANS-MD"><img title="Forks" src="https://github.com/HANSTZ3/HANS-MD"></a>
 <a href="https://github.com/HANSTZ3/HANS-MD"><img title="Watching" src="https://github.com/HANSTZ3/HANS-MD"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{HANSTZ3}/count.svg" alt="HANSTZ-MD :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
