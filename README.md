@@ -19,7 +19,7 @@
   <p align="center">
 <a href="https://github.com/HANSTZ3/HANS-MD><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/HANSTZ3/HANSTZ-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/HANSTZ3/HANS-MD?&style=social"></a>
-<a href="https://github.com/HANSTZ3/HANS-MD"><img title="Forks" src="https://github.com/HANSTZ3/HANS-MD"></a>
+<a href="https://github.com/HANSTZ3/HANS-MD"><img title="Forks" src="HANSTZ3/HANS-MD"></a>
 <a href="https://github.com/HANSTZ3/HANS-MD"><img title="Watching" src="https://github.com/HANSTZ3/HANS-MD"></a>
 
 </p>
