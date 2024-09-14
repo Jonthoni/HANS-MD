@@ -1,5 +1,5 @@
 </h1> 
-<p align="center">HANS 𝕄𝔻 𝕍1
+<p align="center">JONTHONI 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -56,7 +56,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 HANS 𝕄𝔻 V1
+##eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUgrSzBrNUs0Y0pTZTNxUFBpeVVjSmNiT1lTUlh1T1BEUDE5SlpIbnQxRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK21FSC9ob2tQUDNpT0MzYjh5OUgzQnZjU1FwWldCdUtNSVZOR05ncmp3bz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlQzl0Q0FZa0d6cFU1aENjZEZ4UjNiTWxEMU9zd2l2SGE5NFJiK2czWm5zPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPckoraEordjBnalFXaHpSekxaQ1kwVmNvdXFrZURRUVgweENWbXRWeFdjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1KaDFZWG8raXhEY0hDd3dJL0xEQ2FqZjJaK2NERXJGRXRIRjdCWmVYWEk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Inh5TzZCYmppTFNQa0ZzWDQ2UGNkVU5nV0lpVFBpN3IvZDlGTmdMVUpRQjg9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0ozamVZNEt3blZqWU1YSDlSQmFQV3VyQkgwTlFxeFlTbnVmYVA1OVFtND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiN24vRjhOU0xXRWJUQ1VoMGUwaG4waC8vTHJRcy9DM3JieVltWTJUVlp5QT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRabTk3OEQ4Mi9rR3F2NkFIb21nb0M3VTBHbFpyRU4zekVZZ1RndXdBYlU2NzJpY2RNYzlEYTRMUy9FMDUyT2dpUVNoTTJGbFJWT1FPM0RIZ1ovRERnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQ5LCJhZHZTZWNyZXRLZXkiOiJSNzAyRmZtVERLRGFDdDJlRWxuNlV0WTVZdUhXdnZ4RXBTSDI1N25GcnhzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI0VERuZEJjdVRFZTkteHVpYlo0S1hnIiwicGhvbmVJZCI6Ijg3NTAzYzJmLTY0OGQtNGRhOS1hZTY5LWVhMmRiNDg1MzlkNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJIdDVyeXdlNUlGMmJCWllxbVczZ0hlYWQ4QWc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaDRvUTRBZGNYb1pyN1liVGJkeWttLzl1cmNRPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ik5FOEc4UlQ0IiwibWUiOnsiaWQiOiIyNTU2NzgxMDQwNTE6M0BzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSnl2dVpvR0VQeXlscmNHR0FNZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiYkpIdTI2NmtTUlpJbkN6S3lUaDR4RXNRTmk5K29EcTREZGRtck1hdjlBaz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZm80ajlZQ2dlemRUWVlOUGFrUFhaM3p3Y3BzcXJGQnVaUGhYWElML09JYjdkZnZzUVpMZkdkV3cybVFNL1hkNHowQmZpQzNDK1o4UDBwcDBwWGlIRHc9PSIsImRldmljZVNpZ25hdHVyZSI6Ik85YmFLaUt3Wm9VVEc5ak5ySTlTRkdqQ0NsSy80RG45VGJvZ0JDbGhYdHJLVkVOYUNnS3BkT0pyVkhyK1dIeFU2UjRiUzJnbFBZeGFLdW9yVERnZUJBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1Njc4MTA0MDUxOjNAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCV3lSN3R1dXBFa1dTSndzeXNrNGVNUkxFRFl2ZnFBNnVBM1hacXpHci9RSiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyNjMyMzA4Mn0= ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 HANS 𝕄𝔻 V1
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -82,7 +82,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 <a href="https://hanscoder-d74ac23a6e00.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 [`app2`](https://lucky-md-qycm.onrender.com) 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://raw.gitrhubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
